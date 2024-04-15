@@ -1,3 +1,7 @@
+Modules are described using `#` prefixes. Tab indentation denotes dependencies
+between modules. Syntax is `#module_name parameters`, where there can be any
+number of space separated parameters which will be passed on to the module
+at run time.
 ## Pipeline syntax
 All pipelines conform to a standard syntax. The name of the pipeline is
 given by the filename, which should end in `.config`. The top of the file
