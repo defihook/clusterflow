@@ -10,8 +10,6 @@ To run analyses, you will also need the required tools to be installed. Cluster 
 is designed to work with the environment module system and load tools as required, but
 if software is available on the `PATH` it can work without this.
 
-Cluster Flow itself is written in Perl. It has minimal dependencies, all of which are
-core Perl packages.
 
 ## Environment Module
 If you are a user on a HPC cluster, you may already have Cluster Flow installed
